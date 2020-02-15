@@ -1,0 +1,224 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3143,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kingdragon/.mps-youtube",
+				"/home/kingdragon/Desktop/t.txt",
+				"/home/kingdragon/file1",
+				"/home/kingdragon/file1.c",
+				"/home/kingdragon/file2",
+				"/home/kingdragon/file3",
+				"/home/kingdragon/sort",
+				"/home/kingdragon/curl.php",
+				"/home/kingdragon/dragon/Dropbox/Dropbox/fichier/Nouveau document texte (2).txt",
+				"/home/kingdragon/dragon/Dropbox/Dropbox/fichier/Nouveau document texte (3).txt",
+				"/home/kingdragon/dragon/Dropbox/Dropbox/fichier/Nouveau document texte.txt",
+				"/home/kingdragon/.config/i3/scripts/i3exit.sh",
+				"/home/kingdragon/betterlockscreen/lock.sh",
+				"/home/kingdragon/script_install_BetterLock",
+				"/home/kingdragon/betterlockscreen/betterlockscreen",
+				"/home/kingdragon/Desktop/test1.c",
+				"/home/kingdragon/Desktop/test",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/Untitled Folder/test3.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/Untitled Folder/test2.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/Untitled Folder/test.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/ex1.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/test.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/Untitled Folder/ipc2.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/tp.c",
+				"/home/kingdragon/dragon/System/Ubuntu/Desktop/C/Signaux/Untitled Folder/ipc.c",
+				"/home/kingdragon/.config/i3/i3blocks-original.conf",
+				"/home/kingdragon/.config/i3/i3blocks.conf",
+				"/home/kingdragon/testvim.txt",
+				"/home/kingdragon/tt",
+				"/home/kingdragon/xinitrcold",
+				"/home/kingdragon/.xinitrc",
+				"/home/kingdragon/cinac.sh",
+				"/home/kingdragon/i3c.sh",
+				"/home/kingdragon/Desktop/SysC/test1.c",
+				"/home/kingdragon/cinac",
+				"/home/kingdragon/i3c",
+				"/home/kingdragon/Desktop/cmd"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,9,9,1267,762,1280,800",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

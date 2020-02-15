@@ -1,0 +1,39 @@
+h
+basic
+h
+b
+basic
+h
+search
+help basic
+q
+/cristiano
+q
+/linux
+1
+q
+set search_music false
+h
+help basic
+/linux
+1
+set player vlc
+/linux
+1
+set show_video true
+/linux
+1
+q
+/linux
+1
+set player mpv
+1
+q
+h
+help playlists
+h
+/toni cross
+3
+4
+1
+q

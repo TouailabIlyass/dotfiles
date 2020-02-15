@@ -1,0 +1,91 @@
+/home/kingdragon/.Xresources:40:2: error: invalid preprocessing directive #URxvt
+ #URxvt.perl-ext-common: default,matcher,resize-font,url-select,keyboard-select
+  ^~~~~
+/home/kingdragon/.Xresources:43:2: error: invalid preprocessing directive #URxvt
+ #URxvt.keysym.M-u: perl:url-select:select_next
+  ^~~~~
+/home/kingdragon/.Xresources:47:2: error: invalid preprocessing directive #URxvt
+ #URxvt.keysym.M-Escape: perl:keyboard-select:activate
+  ^~~~~
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kingdragon/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=ar_MA.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ar_MA.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=ar_MA.UTF-8
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/i3.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=ar_MA.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/kingdragon
+dbus-update-activation-environment: setting USER=kingdragon
+dbus-update-activation-environment: setting DESKTOP_SESSION=i3
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/i3.default.path
+dbus-update-activation-environment: setting PWD=/home/kingdragon
+dbus-update-activation-environment: setting HOME=/home/kingdragon
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/i3:/home/kingdragon/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=i3
+dbus-update-activation-environment: setting LC_ADDRESS=ar_MA.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=ar_MA.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=i3
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_TELEPHONE=ar_MA.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=i3
+dbus-update-activation-environment: setting LOGNAME=kingdragon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/kingdragon/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session7
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-i3:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ar_MA.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/bin/sh: 1: volumeicon: not found
+warning: output HDMI2 not found; ignoring
+ERROR block_reap:328: [volume] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+Nemo-Share-Message: 22:49:11.779: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+ERROR block_reap:328: [memory] bad exit code 127
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 714 requests (714 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 142886 requests (142886 known processed) with 0 events remaining.
+Gdk-Message: 22:57:40.522: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 22:57:40.525: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 22:57:40.534: nemo: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
